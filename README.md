@@ -2,4 +2,4 @@
 1st repository
 
 Hello everybody)
-That is all changes
+That is all for now
